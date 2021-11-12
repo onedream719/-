@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T05:09:47.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vWzPqZrwjVheqZ76rdBS" version="15.3.5" type="github"><diagram id="ILpMvYZFPXPhP6ZNK0yt" name="Page-1">5Vhtb5swEP41lrYPrXhLCh8hId1LW1WqtJdPkwducEcwMyYv+/W7AxMgtFm2tcraSVHL3flsc3fP4zPEnizW55LmyaWIWUosI14Te0os68y14C8qNrXCMbRiLnlcq8xWccN/MK00tLbkMSt6A5UQqeJ5XxmJLGOR6umolGLVH3Yr0v6qOZ2zgeImoulQ+5HHKqm1rnXW6t8wPk+alc2xV1sWtBms36RIaCxWHZUdEnsihVD102I9YSnGrolL7Td7wLrdmGSZOsRhWXx4W8y+mJfW1fn777fl7J1xcaI3W6hN88IshvfXYiYy+BdEpVwynMUEQYoyiyvJAElIlYi5yGh6IUSuh9wxpTY6lbRUAlSJWqTaytZcfUL305GWPncs07WeuRI2jZApuek4ofi5a2vdKqn1i30sAhBFzjLQFIpKpfdmOvWQrliIUkbsmkm+YIrJm5xGPJuD1QUj+M6ZesBYRxLD92CCtKpeY09WmkKvltszztqWEcCPCdiU3ICfZClVfNnfB9VAmG/HtbUCD7pcfqN09LxLmpZ6pTu6pKdszUjoksAgrk3CM+I5xHfvlovTGKYMR8R1iRfgQxCQwMehnkc8eBgTNyDeDB+8CZheRcQK8Adj/ZB4Ic7mhjDz60HR9otylXDFMDloXQEt9QswoVFSSnaO+inmPBc8g3SGS0hUoeegKZ9DvUxTdqu2yV0yqdh6f3qH6WgcxpoINBM24qqlFbPhiqRDKc24R0/g+HjYNzvIb3ngV9jvIb8lgpeFfetA7NvHxL41wP4Q2l/hZCsUog9wG5ioxDE+8Y2KIKb4Aw3A33fvAbtDghAo4TUJZySYEHdyn/sYxcCtFp1pxqnXegkUYbrH5gjTHATyH20QniXY/xbE2vUaq7MtI+fM6ZfRbnno16u9dipku40/Lxr7AHZIaZlFCZOvsGnYonbfyW7+s7B1zH68j36yN5enTgbeXb0dtmWDaEMMVD+kTbQihoEEBUaKw/3I14YFj2N0DyQr+A/6tZrKaGJfvdkoIKMpzgVQLzQEK4RK8Y1NRCpkSyW3PE13VI+QIdvYIVZnmKLxPRmynixDo+fCq//XxevQ7ss8avvVbLODb+BTpNP7bliggbvViIQeYh9Q3+3H+s3WyckJMsABDduerkzPAHuAyXEbU+KNqiVcvOKhySeu87xbtV3ONw8l/dGTUcrw2H20oqD5QV38nqKIUloUOX4Te+GFsE3wE5z+ILbfC+turf3oaoc/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T05:12:12.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Cn3cDowmYWaATvnnrtEq" version="15.3.5" type="github">
+  <diagram id="ILpMvYZFPXPhP6ZNK0yt" name="Page-1">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vsVIsF_1M2NGKqfuFJ0L-1" target="vsVIsF_1M2NGKqfuFJ0L-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-1" value="java.exe调用jvm.dll创建虚拟机(c++实现)" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vsVIsF_1M2NGKqfuFJ0L-2" target="vsVIsF_1M2NGKqfuFJ0L-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-2" value="创建bootstrap类加载器(c++实例)，加载核心类" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vsVIsF_1M2NGKqfuFJ0L-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-3" value="创建launcher(java类)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="414" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-10" value="JNI调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="vsVIsF_1M2NGKqfuFJ0L-12" target="vsVIsF_1M2NGKqfuFJ0L-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-12" value="laucher创建内部类实例---ext类加载器，加载ext目录下的类" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="414" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vsVIsF_1M2NGKqfuFJ0L-13" value="laucher创建内部类实例---app类加载器，加载classpath下的类" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="414" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
